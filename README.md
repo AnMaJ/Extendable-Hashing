@@ -1,2 +1,2 @@
-# Extendable-Hashing
+# Extendible-Hashing
 Assignment
